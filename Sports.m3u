@@ -1,0 +1,52 @@
+#EXTINF:-1,ESPN
+rtmp://31.220.0.86:1935/live playpath=espnuk swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10 
+
+#EXTINF:-1,ESPN USA
+rtmp://31.220.0.86:1935/live playpath=espnusa swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10 
+
+#EXTINF:-1,ESPN 2
+rtmp://31.220.0.103:1935/live playpath=espn2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1,ESPN UK  
+rtmpe://46.246.124.84/live playpath=espn2250 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=espn2250&vw=690&vh=420 --live 
+
+#EXTINF:-1,Setanta Sports 
+rtmpe://46.246.124.24:1935/live playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ live=1 token=#yw%tt#w@kku
+
+#EXTINF:-1,Fox Sports 1 USA 
+rtmp://31.220.0.104:1935/live playpath=fox1x pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z 
+
+#EXTINF:-1,Fox Sports 2 USA 
+rtmp://31.220.0.104:1935/live playpath=fox2x pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
+
+#EXTINF:0,Sportsnet One HD
+http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8
+
+#EXTINF:-1,Sportsnet East HD
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8?vd?u#bt!25
+
+#EXTINF:-1,Sportsnet Pacific HD 
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8?vd?u#bt!25
+
+#EXTINF:-1,Sportsnet West HD
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8?vd?u#bt!25
+
+#EXTINF:-1,Sportsnet Ontario HD
+http://rogerslive-i.akamaihd.net/hls/live/202827/event/index.m3u8
+
+#EXTINF:-1,Sportsnet World HD
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8
+
+#EXTINF:-1,Sportsnet Extra 1 HD
+http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8?vd?u#bt!25
+
+#EXTINF:-1,TSN1
+rtmp://31.220.0.104:1935/live playpath=tsn1x live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+
+#EXTINF:-1,TSN2 
+rtmp://95.168.199.245:1935/live playpath=tsn2x live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+
+#EXTINF:-1,Ten Cricket
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=07febaf06cea4afeba557b3836d959d6 
+
+

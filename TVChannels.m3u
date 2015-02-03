@@ -1,0 +1,56 @@
+#EXTINF:-1,BBC 1 HD
+http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/playlist.m3u8
+
+#EXTINF:-1,The Food Network
+http://83.139.104.101/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+
+#EXTINF:-1,HBO  
+rtmp://81.17.20.46/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGD 
+
+#EXTINF:-1,Animal Planet  
+http://202.75.23.34:1400/live/ch31/03.m3u8 
+
+#EXTINF:-1,Discovery 
+http://202.75.23.34:1400/live/ch29/03.m3u8 
+
+#EXTINF:-1,Discovery Home  
+http://202.75.23.34:1400/live/ch34/03.m3u8
+
+#EXTINF:-1,Discovery Kids 
+http://202.75.23.35:1400/live/ch36/03.m3u8 
+
+#EXTINF:-1,Discovery World  
+http://202.75.23.34:1400/live/ch30/03.m3u8 
+
+#EXTINF:-1,Discovery Science
+http://202.75.23.34:1400/live/ch33/03.m3u8
+
+#EXTINF:-1,NatGeo Wild 
+http://202.75.23.35:1400/live/ch39/02.m3u8
+
+#EXTINF:-1,History  
+http://202.75.23.36:1400/live/ch45/03.m3u8 
+
+#EXTINF:-1,Lifetime 
+http://202.75.23.36:1400/live/ch48/03.m3u8 
+
+#EXTINF:-1,Nickelodeon 
+http://202.75.23.36:1400/live/ch43/03.m3u8 
+
+#EXTINF:-1,TLC
+http://202.75.23.34:1400/live/ch35/03.m3u8
+
+#EXTINF:0,CNN 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8 
+
+#EXTINF:0,Reuters 
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/chunklist_b1056000.m3u8
+
+#EXTINF:-1,Bloomberg 
+http://149.255.39.122/aasd/8607/index.m3u8 
+
+#EXTINF:-1,BBC World News 
+http://149.255.39.122/aasd/8612/index.m3u8 
+
+#EXTINF:-1,Al Jazeera (EN) 
+http://149.255.39.122/aasd/8614/index.m3u8 
