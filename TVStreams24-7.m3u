@@ -1,11 +1,14 @@
 #EXTINF:-1,3rd Rock From The Sun
-rtmp://198.27.75.99/folder playpath=rock swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?rock <objectEncoding>
+rtmp://198.27.75.99/folder playpath=rock swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?rock
 
-#EXTINF:-1,Arrested Development
+#EXTINF:-1,Arrested Development 1
 rtmp://198.27.75.99/folder playpath=arrested01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?arrested01
 
+#EXTINF:-1,Arrested Development 2
+rtmp://192.99.38.122/blink0220 playpath=arrested01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?arrested01
+
 #EXTINF:-1,American Dad
-rtmp://192.99.38.122/codec playpath=americandad02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?americandad01
+rtmp://192.99.21.184/blink0110 playpath=americandad02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?americandad01
 
 #EXTINF:-1,Becker
 rtmp://198.27.75.99/folder playpath=beck swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?beck
@@ -13,32 +16,44 @@ rtmp://198.27.75.99/folder playpath=beck swfUrl=http://www.tgun.tv/lock/player.s
 #EXTINF:-1,Cheers
 rtmp://198.27.75.99/folder playpath=cheers01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cheers01
 
-#EXTINF:-1,Community
+#EXTINF:-1,Community 1
 rtmp://198.27.75.99/folder playpath=community01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?community01
 
+#EXTINF:-1,Community 2
+rtmp://192.99.38.122/blink0220 playpath=community01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?community01
+
 #EXTINF:-1,Curb Your Enthusiasm
-rtmp://192.99.38.122/codec playpath=curbs03 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?curbs02
+rtmp://192.99.21.184/blink0110 playpath=curbs03 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?curbs02
 
 #EXTINF:-1,Everybody Loves Raymond
-rtmp://192.99.38.122/codec playpath=elr02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?elr01
+rtmp://192.99.21.184/blink0110 playpath=elr02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?elr01
 
 #EXTINF:-1,Family Guy
-rtmp://192.99.38.122/codec playpath=familyguy02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?familyguy01
+rtmp://192.99.21.184/blink0110 playpath=familyguy02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?familyguy01
 
 #EXTINF:-1,Family Guy HD 
 http://195.154.188.161/hls/famguyhdx.m3u8
 
 #EXTINF:-1,Frasier
-rtmp://192.99.38.122/codec playpath=frasier02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?frasier01
+rtmp://192.99.21.184/blink0110 playpath=frasier02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?frasier01
 
-#EXTINF:-1,Friends
-rtmp://192.99.38.122/codec playpath=friends02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?friends01
+#EXTINF:-1,Friends 1
+rtmp://192.99.21.184/blink0110 playpath=friends02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?friends01
+
+#EXTINF:-1,Friends 2
+http://vaughnlive.tv/highspothorror102
 
 #EXTINF:-1,Fresh Prince
-rtmp://192.99.38.122/codec playpath=freshprince02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince01
+rtmp://192.99.21.184/blink0110 playpath=freshprince02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince01
 
-#EXTINF:-1,Futurama
+#EXTINF:-1,Futurama 1
 rtmp://198.27.75.99/folder playpath=2501 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?2501
+
+#EXTINF:-1,Futurama 2
+rtmp://192.99.38.122/blink0220 playpath=2501 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?2501
+
+#EXTINF:-1,Futurama 3
+http://vaughnlive.tv/highspothorror105
 
 #EXTINF:-1,Futurama HD
 http://62.210.76.216:8080/hls/futurx.m3u8?vd?u#bt!25
@@ -47,67 +62,79 @@ http://62.210.76.216:8080/hls/futurx.m3u8?vd?u#bt!25
 rtmp://198.27.75.99/folder playpath=home01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?home01
 
 #EXTINF:-1,How I Met Your Mother
-rtmp://192.99.38.122/codec playpath=himym02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?himym01
+rtmp://192.99.21.184/blink0110 playpath=himym02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?himym01
 
 #EXTINF:-1,It’s Always Sunny in Philidelphia
-rtmp://192.99.38.122/codec playpath=sunny02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?sunny01
+rtmp://192.99.21.184/blink0110 playpath=sunny02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?sunny01
 
 #EXTINF:-1,King of Queens
-rtmp://192.99.38.122/codec playpath=koq02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?koq01
+rtmp://192.99.21.184/blink0110 playpath=koq02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?koq01
 
 #EXTINF:-1,King of the Hill
-rtmp://192.99.38.122/codec playpath=koth02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?koth01
+rtmp://192.99.21.184/blink0110 playpath=koth02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?koth01
 
-#EXTINF:-1,Malcolm in the Middle
+#EXTINF:-1,Malcolm in the Middle 1
 rtmp://198.27.75.99/folder playpath=malcolm swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?malcolm
 
-#EXTINF:-1,Married With Children
-rtmp://192.99.38.122/codec playpath=mwc02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?mwc01
+#EXTINF:-1,Malcolm in the Middle 2
+rtmp://192.99.38.122/blink0220 playpath=malcolm swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?malcolm
 
-#EXTINF:-1,Modern Family
+#EXTINF:-1,Married With Children
+rtmp://192.99.21.184/blink0110 playpath=mwc02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?mwc01
+
+#EXTINF:-1,Modern Family 1
 rtmp://198.27.75.99/folder playpath=mfamily02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?mfamily02
+
+#EXTINF:-1,Modern Family 2
+rtmp://192.99.38.122/blink0220 playpath=mfamily02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?mfamily02
 
 #EXTINF:-1,New Girl
 rtmp://198.27.75.99/folder playpath=ng swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?ng
 
 #EXTINF:-1,Scrubs
-rtmp://192.99.38.122/codec playpath=scrubs02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?scrubs01
+rtmp://192.99.21.184/blink0110 playpath=scrubs02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?scrubs01
 
 #EXTINF:-1,Seinfeld 1
-rtmp://192.99.38.122/codec playpath=seinfeld03 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players
+rtmp://192.99.21.184/blink0110 playpath=seinfeld03 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players
 
 #EXTINF:-1,Seinfeld 2
 rtmp://198.27.75.99/folder playpath=seinfeld02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?seinfeld02
 
 #EXTINF:-1,Seinfeld 3
-rtmp://198.255.0.18:443/live?vDRdff3ce972ca38b606022dcc80baf0cb2=0m0f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_highspothorror107 swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv
+rtmp://192.99.38.122/blink0220 playpath=seinfeld02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?seinfeld02
+
+#EXTINF:-1,Seinfeld 4
+http://vaughnlive.tv/highspothorror107
 
 #EXTINF:-1,South Park
-rtmp://192.99.38.122/codec playpath=southp02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players
+rtmp://192.99.21.184/blink0110 playpath=southp02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players
 
 #EXTINF:-1,South Park HD
 http://62.210.76.216:8080/hls/cartmanhd.m3u8?vd?u#bt!25
 
 #EXTINF:-1,Star Trek DS9
-rtmp://192.99.38.122/codec playpath=ds902 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?ds901
+rtmp://192.99.21.184/blink0110 playpath=ds902 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?ds901
 
 #EXTINF:-1,Star Trek Enterprise
-rtmp://192.99.38.122/codec playpath=trekent02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?trekent01
+rtmp://192.99.21.184/blink0110 playpath=trekent02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?trekent01
 
 #EXTINF:-1,Star Trek TNG
-rtmp://192.99.38.122/codec playpath=tng02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?tng01
+rtmp://192.99.21.184/blink0110 playpath=tng02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?tng01
 
 #EXTINF:-1,Star Trek Voyager
-rtmp://192.99.38.122/codec playpath=voy02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus
+rtmp://192.99.21.184/blink0110 playpath=voy02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus
 
 #EXTINF:-1,That 70's Show
 rtmp://198.27.75.99/folder playpath=that70sshow swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?that70sshow
 
 #EXTINF:-1,The Office
-rtmp://192.99.38.122/codec playpath=office02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?office01
+rtmp://192.99.21.184/blink0110 playpath=office02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?office01
 
-#EXTINF:-1,The Simpsons
+#EXTINF:-1,The Simpsons 1
 rtmp://198.27.75.99/folder playpath=2502 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2502
+
+#EXTINF:-1,The Simpsons 2
+rtmp://192.99.38.122/blink0220 playpath=2502 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2502
 
 #EXTINF:-1,The Simpsons HD
 http://62.210.76.216:8080/hls/simpsx.m3u8?vd?u#bt!25
@@ -116,10 +143,16 @@ http://62.210.76.216:8080/hls/simpsx.m3u8?vd?u#bt!25
 rtmp://198.27.75.99/folder playpath=tbbt01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?tbbt01
 
 #EXTINF:-1,The Big Bang Theory 2
-rtmp://192.99.38.122/codec playpath=tbbt02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?tbbt02
+rtmp://192.99.38.122/blink0220 playpath=tbbt01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?tbbt01
+
+#EXTINF:-1,The Big Bang Theory 3
+rtmp://192.99.21.184/blink0110 playpath=tbbt02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?tbbt02
+
+#EXTINF:-1,The Big Bang Theory 4
+http://vaughnlive.tv/highspothorror101
 
 #EXTINF:-1,Third Rock from the Sun
 rtmp://198.27.75.99/folder playpath=rock swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?rock
 
 #EXTINF:-1,Two and a Half Men
-rtmp://192.99.38.122/codec playpath=men02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men01
+rtmp://192.99.21.184/blink0110 playpath=men02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men01
