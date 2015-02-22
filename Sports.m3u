@@ -17,22 +17,22 @@ rtmp://31.220.0.104:1935/live playpath=fox1x pageUrl=http://www.flashtv.co/loboi
 rtmp://31.220.0.104:1935/live playpath=fox2x pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
 
 #EXTINF:-1,OSN Sports Cricket HD
-http://5.39.70.216:8000/live/10usd/sports@fontsbay.com/61.ts?12345678
+http://5.39.70.216/live/for10$month/sports@fontsbay.com/61.ts?12345678
 
 #EXTINF:-1,OSN Sports Cricket
-http://5.39.70.216:8000/live/10usd/sports@fontsbay.com/62.ts?12345678
+http://5.39.70.216/live/for10$month/sports@fontsbay.com/62.ts?12345678
 
 #EXTINF:-1,OSN Sports 1
-http://5.39.70.216:8000/live/10usd/sports@fontsbay.com/80.ts?12345678
+http://5.39.70.216/live/for10$month/sports@fontsbay.com/80.ts?12345678
 
 #EXTINF:-1,Sky Sports World Cup HD
-http://5.39.70.216:8000/live/10usd/sports@fontsbay.com/74.ts?12345678
+http://5.39.70.216/live/for10$month/sports@fontsbay.com/74.ts?12345678
 
 #EXTINF:-1,Sky Sports World Cup 1
-http://5.39.70.216:8000/live/10usd/sports@fontsbay.com/2.ts?12345678
+http://5.39.70.216/live/for10$month/sports@fontsbay.com/2.ts?12345678
 
 #EXTINF:-1,Sky Sports World Cup 2
-http://5.39.70.216:8000/live/10usd/sports@fontsbay.com/141.ts?12345678
+http://5.39.70.216/live/for10$month/sports@fontsbay.com/141.ts?12345678
 
 #EXTINF:0,Sportsnet One HD
 http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8
