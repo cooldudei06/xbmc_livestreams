@@ -17,16 +17,16 @@ rtmp://31.220.0.104:1935/live playpath=fox1x pageUrl=http://www.flashtv.co/loboi
 rtmp://31.220.0.104:1935/live playpath=fox2x pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
 
 #EXTINF:-1,Cricket Channel HD 1
-http://5.39.70.216/live/10USD-month/sports@fontsbay.com/78.ts?12345678
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/78.ts?12345678
 
 #EXTINF:-1,Cricket Channel HD 2
-http://5.39.70.216/live/10USD-month/sports@fontsbay.com/74.ts?12345678
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/74.ts?12345678
 
 #EXTINF:-1,Sky Sports 2 HD 1
-http://5.39.70.216/live/10USD-month/sports@fontsbay.com/2.ts?12345678
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/2.ts?12345678
 
 #EXTINF:-1,Sky Sports 2 HD 2
-http://5.39.70.216/live/10USD-month/sports@fontsbay.com/141.ts?12345678
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/141.ts?12345678
 
 #EXTINF:0,Sportsnet One HD
 http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8
@@ -52,11 +52,29 @@ http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8?vd?u#bt!25
 #EXTINF:-1,Ten Cricket
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=07febaf06cea4afeba557b3836d959d6 
 
-#EXTINF:-1,TSN 1
-rtmp://31.220.0.104:1935/live playpath=tsn1x live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,TSN 1 HD
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/34.ts?12345678
 
-#EXTINF:-1,TSN 2 
-rtmp://95.168.199.245:1935/live playpath=tsn2x live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,TSN 2 HD
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/35.ts?12345678
+
+#EXTINF:-1,TSN 3 HD
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/135.ts?12345678
+
+#EXTINF:-1,TSN 4 HD
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/136.ts?12345678
+
+#EXTINF:-1,TSN 5 HD
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/137.ts?12345678
+
+#EXTINF:-1,Sportsnet Ontario HD
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/77.ts?12345678
+
+#EXTINF:-1,Sportsnet World HD
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/76.ts?12345678
+
+#EXTINF:-1,Sportsnet One HD
+http://5.39.70.216/live/10$:monthSDA/sports@fontsbay.com/75.ts?12345678
 
 #EXTINF:-1,Setanta Sports 
 rtmpe://46.246.124.24:1935/live playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ live=1 token=#yw%tt#w@kku
